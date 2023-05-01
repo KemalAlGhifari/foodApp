@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import "package:flutter/material.dart";
 import 'package:google_fonts/google_fonts.dart';
 import 'package:tugasmokeup/screens/home_screen.dart';
@@ -16,12 +14,14 @@ class _loginState extends State<login> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       body: Container(
         color: YellowCollor,
         child: Center(
           child: Container(
-            width: 233,
-            height: 400,
+            width: MediaQuery.of(context).size.width,
+            height: MediaQuery.of(context).size.height / 1.7,
+            margin: EdgeInsets.all(60),
             decoration: BoxDecoration(
                 color: Colors.white, borderRadius: BorderRadius.circular(13)),
             child: Column(

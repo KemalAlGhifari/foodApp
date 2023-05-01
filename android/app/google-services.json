@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "697574848993",
+    "project_id": "foodapp-9c70f",
+    "storage_bucket": "foodapp-9c70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697574848993:android:cff856f1cdd8877a6efaa0",
+        "android_client_info": {
+          "package_name": "com.example.tugasmokeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697574848993-s0u9dcep8q1imcsrou426a3c1t26o5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkj-Izhv4W7rR-WcWfLCmFAg5IOdKffY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697574848993-s0u9dcep8q1imcsrou426a3c1t26o5ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697574848993:android:36810c1aff3777a86efaa0",
+        "android_client_info": {
+          "package_name": "com.example.tugasmokeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697574848993-s0u9dcep8q1imcsrou426a3c1t26o5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkj-Izhv4W7rR-WcWfLCmFAg5IOdKffY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697574848993-s0u9dcep8q1imcsrou426a3c1t26o5ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
